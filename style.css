@@ -1,0 +1,31 @@
+body{
+    background-color: ghostwhite;
+}
+fieldset{
+    width:300px ;
+    height:200px ;
+}
+a.him{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: green;
+    margin: 100px;
+}
+a.men{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: green;
+    margin: 200px;
+}
+a.ord{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: green;
+    margin: 150px;
+}
+a.con{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: green;
+    margin: 200px;
+}
