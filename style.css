@@ -29,3 +29,18 @@ a.con{
     color: green;
     margin: 200px;
 }
+a button{
+    padding: 10px;
+    background-color: orange;
+    border-radius: 10px;
+    font-size: x-small;
+}
+ol li a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+    font-size: x-large;
+}
+ol{
+    font-size: x-large;
+}
