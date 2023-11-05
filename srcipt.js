@@ -1,3 +1,3 @@
-screen=34
-he=34
-screen + he
+document.querySelector("html").addEventListener("click", () => {
+    alert("Ouch! Stop poking me!");
+  });
